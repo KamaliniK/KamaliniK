@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamaliniK
 - 👀 I’m interested to code
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...kamalinikandeeban@gmail.com
 
